@@ -1,6 +1,5 @@
 //
 // This file was automatically generated. Please don't edit by hand.
-// HAND EDITED FOR NOW... NEED TO REGENERATE FOR STACKLIT
 //
 
 #ifndef STACKLIT_CS_HLSL
